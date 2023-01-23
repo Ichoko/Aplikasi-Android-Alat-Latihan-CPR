@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/layout_history_list.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/layout/history_list.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/layout_userlist.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/layout/userlist.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxhdpi_ic_launcherok.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxhdpi/ic_launcherok.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "me.richo.cabtraining.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-hdpi_ic_launcherok_foreground.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-hdpi/ic_launcherok_foreground.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/layout_fragment_history_page.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/layout/fragment_history_page.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxxhdpi_ic_launcherok_round.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxxhdpi/ic_launcherok_round.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/drawable_ic_launcherok_background.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/drawable/ic_launcherok_background.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-mdpi_ic_launcherok_round.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-mdpi/ic_launcherok_round.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xhdpi_ic_launcherok_round.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xhdpi/ic_launcherok_round.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xhdpi_ic_launcherok_foreground.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xhdpi/ic_launcherok_foreground.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxxhdpi_ic_launcherok.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxxhdpi/ic_launcherok.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-mdpi_ic_launcherok_foreground.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-mdpi/ic_launcherok_foreground.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/layout_fragment_exam_page.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/layout/fragment_exam_page.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-hdpi_ic_launcherok_round.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-hdpi/ic_launcherok_round.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xhdpi_ic_launcherok.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xhdpi/ic_launcherok.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-hdpi_ic_launcherok.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-hdpi/ic_launcherok.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/layout_fragment_tutorial_page.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/layout/fragment_tutorial_page.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-anydpi-v26_ic_launcherok_round.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-anydpi-v26/ic_launcherok_round.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-mdpi_ic_launcherok.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-mdpi/ic_launcherok.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxhdpi_ic_launcherok_foreground.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxhdpi/ic_launcherok_foreground.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-anydpi-v26_ic_launcherok.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-anydpi-v26/ic_launcherok.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/drawable_rounded.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/drawable/rounded.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxhdpi_ic_launcherok_round.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxhdpi/ic_launcherok_round.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxxhdpi_ic_launcherok_foreground.png.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxxhdpi/ic_launcherok_foreground.png"
+    },
+    {
+        "merged": "me.richo.cabtraining.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "me.richo.cabtraining.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
