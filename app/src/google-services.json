@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1011467134520",
+    "firebase_url": "https://cpr-jantung-paru-default-rtdb.firebaseio.com",
+    "project_id": "cpr-jantung-paru",
+    "storage_bucket": "cpr-jantung-paru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011467134520:android:d6c1b1edede5c08af468cd",
+        "android_client_info": {
+          "package_name": "me.richo.cabtraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011467134520-a2c1msh91q2i1jbs8jgfkvjr8u6sh3de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.richo.cabtraining",
+            "certificate_hash": "911b956b2102e33efd675e3b6c3e2ecd9cecf163"
+          }
+        },
+        {
+          "client_id": "1011467134520-vuil2auh0t8av6udn5vv9miqe7ap8sja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY1K4NC-kgtKpkj8n547fJqIe9jJYTojM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011467134520-vuil2auh0t8av6udn5vv9miqe7ap8sja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011467134520:android:8c3f9d433305c0b9f468cd",
+        "android_client_info": {
+          "package_name": "me.richo.cprtraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011467134520-vuil2auh0t8av6udn5vv9miqe7ap8sja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY1K4NC-kgtKpkj8n547fJqIe9jJYTojM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011467134520-vuil2auh0t8av6udn5vv9miqe7ap8sja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
